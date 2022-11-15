@@ -1,0 +1,12 @@
+tot_rmse: 3.824348449707
+tot_mae: 2.371385335922
+sponginess_rmse: 1.710257768631
+wonder_rmse: 1.720137834549
+crunchiness_rmse: 6.701318264008
+loudness_rmse: 1.225220799446
+meme_rmse: 0.733137488365
+soap_rmse: 3.008534669876
+hype_rmse: 6.363805770874
+first_quarter_rmse: 3.649062633514
+second_quarter_rmse: 3.736295938492
+third_quarter_rmse: 4.074475765228
